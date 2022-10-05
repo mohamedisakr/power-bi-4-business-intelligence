@@ -1,0 +1,64 @@
+-------- As a reminder, it's 14 questions and should take 10-15 min to complete. ---------
+
+1. What would 68 degrees F (fahrenheit) be in C (celcius)?This question is required. *
+20
+
+2. How many total medals did Italy win in the 2020 Olympics?
+40
+
+3. In the Sample Data file, what is the value of the 3rd number in the "mission" column?
+2000311
+
+4. In the Sample Data file, how many rows are there? 
+8751
+
+5. In the Sample Data file, what is the average of the data in the "score" column?
+8.6
+
+6. In the Sample Data file, what is the date for the first row of data? To find the answer, you'll need to reformat the number to use the date format.
+MM/DD/YYYY
+05/23/2017
+
+7. The revenue for a company increased from $155,300 in one week to $194,125 the next week. What was the percentage increase in revenue?
+Round to the nearest percent and write it as a whole number. For example, if your answer was 10.3%, you would just write 10.
+(194125 - 155300) / 155300
+25
+
+8. The revenue for a company decreased from $220,000 in one week to $165,000 the next week. What was the percentage decrease in revenue?
+Round to the nearest percent and write it as a positive whole number. For example, if your answer was -10.3%, you would just write 10.
+(165000 - 220000) /  220000
+25
+
+
+9. Solve the following mathematical expression: 12 + 5 * 3^2 - (10 - 4)
+The * at the end is not part of the expression, it's indicating that it's a required question.
+51
+
+10. Solve the following mathematical expression: (9-2) * (3-1)^3
+The * at the end is not part of the expression, it's indicating that it's a required question.
+56
+
+11. Given the equation 3x - 39 = 12, what is x ?
+17
+
+12. What is the slope of the line on this chart?This question is required. *
+Write your answer a number, not a fraction.
+0.8
+
+p1 (50, 50)
+p2 (100, 90)
+
+13. What is the y-intercept of the line on this chart? 
+10
+
+14. Revenue for a company was $1.2 million, and then grew 10% each year for 7 years. What is the revenue for the last year? (round to the nearest 1,000).
+A = P(1 + (r/n))^(nt)
+A = 1.2(1 + 0.1)^(1*7)
+A = 1.2(1.1)^(7)
+A = 2.33846052
+A = 2.338
+
+
+
+
+
